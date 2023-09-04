@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "bizX"
 title_separator          : "-"
-subtitle                 : "innovative.minimal.care"
+subtitle                 : "innovative . minimal . care"
 name                     : "bizX"
 description              : "business solutions"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "bizX Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are **amazing** team."
+  bio              : "We care your business."
   location         : "Bangkok, Thailand"
   email            :
   links:
